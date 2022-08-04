@@ -3,7 +3,7 @@
 
 - Calculadoras química analítica [Calculadoras-PAQ](https://github.com/Nicouti/Calculadoras-PAQ)
 
-- 💊 Herramientas computacionales aplicadas en el estudio de propuestas de fármacos a través de docking molecular (POO) **https://sites.google.com/a/uoc.edu/tfmbyb/home/area3#:~:text=La%20Bioinform%C3%A1tica%20farmac%C3%A9utica%20es%20una,biolog%C3%ADa%2C%20medicina%20y%20qu%C3%ADmica%20m%C3%A9dica.**
+- 💊 Herramientas computacionales aplicadas en el estudio de propuestas de fármacos a través de docking molecular (POO) **--**
 
 - Solo atrevidas **niparrav@unal.edu.co**
 
