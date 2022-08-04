@@ -1,5 +1,5 @@
 <h1 align="center"> hola soy Hosk chino</h1>
-<h3 align="center">Amante de la bioquímica 😜🧪💊😂👌👌👌👌</h3>
+<h3 align="center">Solo bioquímica pirobos 😜🧪💊😂👌👌👌👌</h3>
 
 - Calculadoras química analítica [Calculadoras-PAQ](https://github.com/Nicouti/Calculadoras-PAQ)
 
