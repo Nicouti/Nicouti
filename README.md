@@ -1,11 +1,11 @@
-<h1 align="center">Ohayo me han dicho que tengo la voz de bakugou no sé si es cierto mm pero de que puedo hacer el baka creo que sí osea BAAKA jaja diganmelo ustedes Nicouti (Sir Hosk)</h1>
+<h1 align="center"> HOLA SI SI HOLA Nicouti (Sir Hosk)</h1>
 <h3 align="center">Amante de la bioquímica 😜🧪💊😂👌👌👌👌</h3>
 
 - Calculadoras química analítica [Calculadoras-PAQ](https://github.com/Nicouti/Calculadoras-PAQ)
 
 - Solo atrevidas **niparrav@unal.edu.co**
 
-- ⚡ Fun fact **Sabe usted qué es una gripa bajita?**
+- ⚡ Fun fact **Ohayo me han dicho que tengo la voz de bakugou no sé si es cierto mm pero de que puedo hacer el baka creo que sí osea BAAKA jaja diganmelo ustedes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
