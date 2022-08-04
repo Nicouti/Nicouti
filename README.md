@@ -5,6 +5,8 @@
 
 - 💊 Herramientas computacionales aplicadas en el estudio de propuestas de fármacos a través de docking molecular (POO) **--**
 
+- Aprendiz de Lua para hacer scripts en roblox y que me paguen en robux 🥵🥵🤑🤑🤑🤑 **https://www.roblox.com/users/168069548/profile**
+
 - Solo atrevidas **niparrav@unal.edu.co**
 
 - ⚡ Fun fact **Ohayo me han dicho que tengo la voz de bakugou no sé si es cierto mm pero de que puedo hacer el baka creo que sí osea BAAKA jaja diganmelo ustedes**
