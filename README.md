@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolás parra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolás david parra vargas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-david-parra-vargas-172b4a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolás david parra vargas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
