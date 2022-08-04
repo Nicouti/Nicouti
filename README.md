@@ -5,13 +5,15 @@
 
 - 💊 Herramientas computacionales aplicadas en el estudio de propuestas de fármacos a través de docking molecular (POO) **--**
 
-- Aprendiz de Lua para hacer scripts en roblox y que me paguen en robux 🥵🥵🤑🤑🤑🤑 **https://www.roblox.com/users/168069548/profile**
+- Aprendiz de Luau para hacer scripts en roblox y que me paguen en robux 🥵🥵🤑🤑🤑🤑 **https://www.roblox.com/users/168069548/profile**
+
+- Aprendiz de Lua para hacer furrys en MTA 
 
 - Solo atrevidas **niparrav@unal.edu.co**
 
 - ⚡ Fun fact **Ohayo me han dicho que tengo la voz de bakugou no sé si es cierto mm pero de que puedo hacer el baka creo que sí osea BAAKA jaja diganmelo ustedes**
 
-<h3 align="left">No tengo nada:</h3>
+<h3 align="left">No tengo nada no me stalkees:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-david-parra-vargas-172b4a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolás david parra vargas" height="30" width="40" /></a>
 </p>
