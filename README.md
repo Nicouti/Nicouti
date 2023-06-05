@@ -11,8 +11,6 @@
 
 - Aprendiendo análisis de expresión diferencial de RNA-seq y microarrays con R (repositorio en progreso)
 
-- Solo atrevidas **niparrav@unal.edu.co**
-
 - ⚡ Fun fact **Hola cómo estás**
 
 <h3 align="left">No tengo nada no me stalkees:</h3>
