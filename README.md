@@ -3,7 +3,7 @@
 
 - Calculadoras química analítica [Calculadoras-PAQ](https://github.com/Nicouti/Calculadoras-PAQ)
 
-- 💊 Herramientas computacionales aplicadas en el estudio de propuestas de fármacos a través de docking molecular (POO) **--**
+- 💊 Herramientas computacionales aplicadas en el estudio de propuestas de fármacos a través de docking molecular **--**
 
 - Aprendiz de Luau para hacer scripts en roblox 🥵🥵🤑🤑🤑🤑 **https://www.roblox.com/users/168069548/profile**
 
