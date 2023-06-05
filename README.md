@@ -5,7 +5,7 @@
 
 - 💊 Herramientas computacionales aplicadas en el estudio de propuestas de fármacos a través de docking molecular **--**
 
-- Aprendiz de Luau para hacer scripts en roblox 🥵🥵🤑🤑🤑🤑 **https://www.roblox.com/users/168069548/profile**
+- Aprendiz de Luau para hacer scripts en roblox 🥵🥵🤑🤑🤑🤑 
 
 - Aprendiz de Lua para hacer furrys en MTA 
 
