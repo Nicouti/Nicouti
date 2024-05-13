@@ -5,9 +5,7 @@
 
 - 💊 Herramientas computacionales aplicadas en el estudio de propuestas de fármacos a través de docking molecular **--**
 
-- Aprendiz de Luau para hacer scripts en roblox 🥵🥵🤑🤑🤑🤑 
-
-- Aprendiz de Lua para hacer furrys en MTA 
+- Bioinformática para análisis de datos multi-ómicos e integración multi-ómica
 
 - Aprendiendo análisis de expresión diferencial de RNA-seq y microarrays con R (repositorio en progreso)
 
